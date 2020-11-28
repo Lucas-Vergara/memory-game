@@ -83,6 +83,7 @@ function Board (props) {
         const newCards = [...cards];
         shuffle(newCards)
         setNewCards(newCards)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [score, highScore])
 
     return (
