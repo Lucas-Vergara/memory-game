@@ -1,0 +1,41 @@
+
+#gameboard {
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+#scoreboard {
+    position: absolute;
+    right: 0px;
+    font-size: x-large;
+
+    // padding: 10px;
+}
+
+body {
+    background-color: #363636;
+}
+
+#scoreboard span {
+    color: blue;
+    padding: 0 10px;
+}
+
+#card {
+    background-color: #363636;
+    padding: 20px;
+}
+
+.image {
+    height: 100px;
+    width: 150px;
+    border: solid 2px black;
+    padding: 20px 20px;
+    cursor: pointer;
+}
+
+.image:hover {
+    transform: scale(1.1); 
+}
