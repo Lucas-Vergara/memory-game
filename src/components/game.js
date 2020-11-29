@@ -19,13 +19,13 @@ const Game = () => {
         } else {
             setSelected([])
             setScore(0)
-            alert('Perdiste, loser!')
+            alert('Liss, eres terrible mala pa este juego')
         }
         console.log(selected)
     }
 
     if(score === 12) {
-        alert('ganaste!!! waju!!!')
+        alert('yaaaaaaa, ganaste??? bueeeena loca liz!')
         setSelected([])
         setScore(0)
     }
