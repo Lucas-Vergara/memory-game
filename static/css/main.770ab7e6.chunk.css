@@ -1,0 +1,2 @@
+#gameboard{padding-top:30px;display:grid;grid-template-columns:auto auto auto auto}#scoreboard{position:absolute;right:0;font-size:x-large}body{background-size:cover;background-image:radial-gradient(circle farthest-corner at 10% 20%,#ffc576 0,#fe6a67 47.7%,#f01717 92.3%)}#scoreboard span{color:#f5f5f5;padding:0 10px}#card,.image{padding:20px}.image{height:100px;width:150px;border:2px solid #000;cursor:pointer}.image:hover{transform:scale(1.1)}
+/*# sourceMappingURL=main.770ab7e6.chunk.css.map */

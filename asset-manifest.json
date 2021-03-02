@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.770ab7e6.chunk.css",
+    "main.js": "/memory-game/static/js/main.5ef4f512.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.5ef4f512.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.a163e537.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.a163e537.js.map",
+    "static/js/2.74b0bf76.chunk.js": "/memory-game/static/js/2.74b0bf76.chunk.js",
+    "static/js/2.74b0bf76.chunk.js.map": "/memory-game/static/js/2.74b0bf76.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/main.770ab7e6.chunk.css.map": "/memory-game/static/css/main.770ab7e6.chunk.css.map",
+    "static/js/2.74b0bf76.chunk.js.LICENSE.txt": "/memory-game/static/js/2.74b0bf76.chunk.js.LICENSE.txt",
+    "static/media/bass.176373bc.png": "/memory-game/static/media/bass.176373bc.png",
+    "static/media/bongo.34778f1f.png": "/memory-game/static/media/bongo.34778f1f.png",
+    "static/media/clarinet.67a666bb.png": "/memory-game/static/media/clarinet.67a666bb.png",
+    "static/media/conga.56c0df51.png": "/memory-game/static/media/conga.56c0df51.png",
+    "static/media/guitar.af16ca87.png": "/memory-game/static/media/guitar.af16ca87.png",
+    "static/media/harp.b9c75a8f.png": "/memory-game/static/media/harp.b9c75a8f.png",
+    "static/media/maracas.762c5e46.png": "/memory-game/static/media/maracas.762c5e46.png",
+    "static/media/medieval.b09fcd54.png": "/memory-game/static/media/medieval.b09fcd54.png",
+    "static/media/organ.6918d234.png": "/memory-game/static/media/organ.6918d234.png",
+    "static/media/sax.4c795aa0.png": "/memory-game/static/media/sax.4c795aa0.png",
+    "static/media/sitar.baad41b8.png": "/memory-game/static/media/sitar.baad41b8.png",
+    "static/media/violin.10e4b443.png": "/memory-game/static/media/violin.10e4b443.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a163e537.js",
+    "static/js/2.74b0bf76.chunk.js",
+    "static/css/main.770ab7e6.chunk.css",
+    "static/js/main.5ef4f512.chunk.js"
+  ]
+}
